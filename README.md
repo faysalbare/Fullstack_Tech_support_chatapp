@@ -1,3 +1,6 @@
+![Näyttökuva 2024-2-28 kello 8 47 23](https://github.com/faysalbare/Fullstack_Tech_support_chatapp/assets/144419594/308418d1-2fec-41a6-8e6d-632841fc141f)
+
+
 Tect Support app with React and Socket.io
 
 This is a Support  application built with React.js in the frontend and Socket.io in the backend. It allows users to start a chat with an admin directly from a public website, browse the website while chatting, pause/resume the chat, and enables the admin to manage chats from a dashboard.
